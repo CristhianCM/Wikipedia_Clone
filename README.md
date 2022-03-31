@@ -17,4 +17,4 @@ Wikipedia home page clone.
 
 Visit [GitHub_Page_Website](https://cristhiancm.github.io/Wikipedia_Clone/)
 
-![Image text]()
+![Image text](https://github.com/CristhianCM/Wikipedia_Clone/blob/main/images/Wikipedia_Finish.png)
